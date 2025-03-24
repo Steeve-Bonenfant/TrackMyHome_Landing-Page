@@ -9,16 +9,16 @@ export default function ImageDownload() {
       <Image
         src="/images/appStore.webp"
         alt="Bouton pour télécharger l'application sur l'App Store"
-        width={150}
-        height={50}
+        width={154}
+        height={49}
         className={styles.imageButton}
       />
 
       <Image
         src="/images/playStore.webp"
         alt="Bouton pour télécharger l'application sur le Play Store"
-        width={150}
-        height={50}
+        width={154}
+        height={49}
         className={styles.imageButton}
       />
     </div>

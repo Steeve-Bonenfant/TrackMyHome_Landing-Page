@@ -43,8 +43,8 @@ export const StickyScroll = ({ content }) => {
             <Image
               src={item.image}
               alt={`Image pour ${item.title}`}
-              width={300}
-              height={200}
+              width={320}
+              height={240}
               className={styles.mobileImage}
             />
           </div>
