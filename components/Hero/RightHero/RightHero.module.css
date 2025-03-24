@@ -1,0 +1,12 @@
+.generalContainer {
+  width: 50vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 1024px) {
+  .generalContainer {
+    display: none;
+  }
+}

@@ -1,0 +1,26 @@
+.cardContainer {
+  width: 28%;
+  height: 350px;
+  background-color: var(--card-background);
+  border-radius: var(--border-radius-card);
+}
+
+.imageCards {
+  text-align: center;
+  margin: 50px 0 20px 0;
+}
+
+.textCards {
+  margin: 25px 35px;
+}
+
+@media (max-width: 1024px) {
+  .cardContainer {
+    width: 85%;
+    height: 350px;
+  }
+
+  .textCards {
+    margin: 25px 40px;
+  }
+}

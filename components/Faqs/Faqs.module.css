@@ -1,0 +1,30 @@
+.containerGeneral {
+  width: 100vw;
+  height: auto;
+  padding: 40px 120px;
+}
+
+.title {
+  text-align: center;
+  margin: 40px;
+}
+
+.subTitle {
+  font-size: 24px;
+  text-align: center;
+  margin: 30px;
+}
+
+.containerWrapper {
+  padding: 10px 10px 0 10px;
+}
+
+@media (max-width: 1024px) {
+  .containerGeneral {
+    padding: 0;
+  }
+
+  .subTitle {
+    margin: 20px 30px;
+  }
+}

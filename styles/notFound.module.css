@@ -1,0 +1,22 @@
+.notFound {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin-bottom: 100px;
+}
+
+.iconNotFound {
+  font-size: 50px;
+  margin-right: 15px;
+}
+
+.textNotFound {
+  font-size: 24px;
+  margin: 30px;
+}

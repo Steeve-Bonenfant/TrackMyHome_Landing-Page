@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "TrackMyHome est-il un service gratuit ?",
+    "answer": "Oui, nous tester notre projet avec des constructeurs comme vous c'est pourquoi dans un premier temps le service est gratuit. Alors, profitez-en !."
+  },
+  {
+    "id": 2,
+    "question": "Combien de chantiers est inclus dans l'offre ?",
+    "answer": "Il n'y a pas de maximum de chantiers. On vous souhaite le maximum, en tout cas, vous pourrez tous les gerer sur notre plateforme"
+  },
+  {
+    "id": 3,
+    "question": "Quels types de documents puis-je partager sur TrackMyHome ?",
+    "answer": "Vous pouvez partager des photos, des contrats, des plans et tout autre document nécessaire à la gestion de vos chantiers. Tout est centralisé pour simplifier votre organisation."
+  },
+  {
+    "id": 4,
+    "question": "Comment mes clients accèdent-ils aux informations du chantier ?",
+    "answer": "Chaque client dispose d'un espace dédié, accessible via l'application mobile. Ils peuvent y consulter en temps réel l'avancement du chantier, les photos, les documents partagés."
+  }
+]

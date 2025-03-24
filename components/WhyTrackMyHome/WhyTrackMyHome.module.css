@@ -1,0 +1,33 @@
+.generalContainer {
+  width: 100vw;
+  text-align: center;
+  margin-top: 40px;
+  background-image: url("/images/wave.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin: 80px;
+}
+
+@media (max-width: 1024px) {
+  .generalContainer {
+    background-image: none;
+  }
+
+  .title {
+    margin-top: 200px;
+  }
+
+  .cardsContainer {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin: 60px 0;
+  }
+}

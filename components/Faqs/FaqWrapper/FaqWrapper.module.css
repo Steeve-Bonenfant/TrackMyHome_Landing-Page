@@ -1,0 +1,60 @@
+.faqContainer {
+  background-color: #edecf0;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+}
+
+.title {
+  font-size: 20px;
+  color: var(--text-color-black);
+}
+
+.croixFaq {
+  font-size: 40px;
+  font-weight: 600;
+  color: #fe5900;
+}
+
+.answerText {
+  padding: 10px 50px 20px 20px;
+}
+
+.answer.closed {
+  display: none;
+}
+
+.answer.open {
+  display: block;
+}
+
+@media (max-width: 1024px) {
+  .containerGeneral {
+    height: 80px;
+  }
+
+  .title {
+    font-size: 18px;
+    color: var(--text-color-black);
+    padding: 5px 14px;
+  }
+
+  .croixFaq {
+    font-size: 35px;
+  }
+
+  .question {
+    height: 100px;
+  }
+
+  .answerText {
+    padding: 0 50px 25px 30px;
+  }
+}

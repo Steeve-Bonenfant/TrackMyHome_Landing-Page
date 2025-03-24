@@ -1,0 +1,72 @@
+.containerGeneral {
+  width: 100vw;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background: linear-gradient(
+    to bottom right,
+    #1d0d44 10%,
+    #362173 40%,
+    #4e30a6 70%,
+    #663ed9 100%
+  );
+}
+
+.title {
+  color: white;
+  margin-bottom: 50px;
+}
+
+.text {
+  text-align: center;
+  max-width: 1000px;
+}
+
+.containerImages {
+  display: flex;
+  margin-top: 50px;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.imageButton1:hover {
+  transform: scale(1.05);
+}
+
+.imageButton2:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 1024px) {
+  .containerGeneral {
+    height: auto;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 28px;
+    margin: 50px 40px 30px;
+  }
+
+  .text {
+    text-align: center;
+    margin: 0 30px;
+  }
+
+  .containerImages {
+    display: flex;
+    margin: 50px;
+    gap: 20px;
+  }
+
+  .imageButtonApp {
+    padding-left: 30px;
+  }
+
+  .imageButtonPlay {
+    padding-right: 30px;
+  }
+}

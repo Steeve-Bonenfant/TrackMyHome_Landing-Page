@@ -1,0 +1,20 @@
+:root {
+  --background-color: #fbfbfe;
+  --purple-primary: #363173;
+  --blue-primary: #212773;
+  --blue-secondary: #2141c0;
+  --text-color-black: #050315;
+  --card-background: #edecf0;
+
+  /* Typo */
+  --font-family: "Inter", sans-serif;
+  --font-size: 16px;
+
+  /* Border Radius */
+  --border-radius-card: 24px;
+  --border-radius-container: 18px;
+  --border-radius-button: 8px;
+
+  /* Linear Gradient */
+  --linear-gradient-text: linear-gradient(to right, #362173, #212773, #2141c0);
+}

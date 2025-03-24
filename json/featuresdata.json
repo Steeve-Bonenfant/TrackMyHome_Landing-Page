@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Informez vos clients en temps réel",
+    "description": "Notifiez vos clients instantanément à chaque étape clé du chantier : avancement des travaux, livraisons ou changements importants. Offrez une communication transparente et réduisez les demandes répétitives, pour une gestion de chantier plus fluide et un gain de temps précieux.",
+    "image": "/images/feature1.webp"
+  },
+  {
+    "title": "Partagez des documents en toute simplicité",
+    "description": "Échangez facilement des documents, photos et contrats liés aux chantiers avec vos clients, directement depuis l'application. Oubliez les erreurs d’adresses email ou les envois de documents par courrier. Tout est centralisé et accessible en quelques clics.",
+    "image": "/images/feature2.webp"
+  },
+  {
+    "title": "Gardez un œil sur tous vos chantiers",
+    "description": "Accédez rapidement à l'ensemble de vos chantiers grâce à notre carte interactive. En un clic, localisez un chantier précis et, grâce à la géolocalisation, laissez le GPS vous guider jusqu'à destination pour une gestion sans stress.",
+    "image": "/images/feature3.webp"
+  }
+]

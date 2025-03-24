@@ -1,0 +1,27 @@
+[
+  {
+    "bgColor": "var(--purple-primary)",
+    "width": "70%",
+    "bigText": "Plus de XXX constructeurs",
+    "littleText": "ce n'est qu'un début..."
+  },
+  {
+    "bgColor": "var(--blue-primary)",
+    "width": "30%",
+    "bigText": "100% gratuit",
+    "littleText": "Pour l'instant !"
+  },
+  {
+    "bgColor": "black",
+    "width": "55%",
+    "bigText": "+ XXXX chantiers",
+    "littleText": "réalisés avec TrackMyHome",
+    "image": "/images/signalisation.webp"
+  },
+  {
+    "bgColor": "var(--blue-secondary)",
+    "width": "45%",
+    "bigText": "XX% de satisfaction",
+    "littleText": "selon les retours de vos clients."
+  }
+]
