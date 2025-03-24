@@ -17,7 +17,7 @@ export default function ImageDownload() {
       <Image
         src="/images/playStore.webp"
         alt="Bouton pour télécharger l'application sur le Play Store"
-        width={154}
+        width={158}
         height={49}
         className={styles.imageButton}
       />
